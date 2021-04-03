@@ -1,0 +1,35 @@
+.hero-banner {
+    background-image: url("https://polarumah.com/wp-content/uploads/2019/02/rumah-adat-jawa-tengah-1-min-1400x800.jpg");
+    background-size: cover;
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    color:orange
+}
+
+.hero-banner p{
+    color :orange
+}
+.hero-banner h1{
+    color :#be0000
+}
+.text-Dapur {
+    font-weight: bold;
+    color: gold;
+}
+
+.lihat-menu {
+    font-size: 14pt;
+    position: center;
+    font-family: -apple-system, 'Helventica Neue';
+    font-weight: bold;
+}
+
+h5 {
+    font-family: -apple-system, 'Helvetica Neue';
+}
+
+h6 {
+    color: black;
+    font-family: -apple-system, 'Helvetica Neue';
+}
